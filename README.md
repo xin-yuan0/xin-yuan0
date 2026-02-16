@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 - 🔭 I’m currently working on Linear OS, A hobby Operating System
 - 🌱 I’m currently learning C, Bare metal coding
