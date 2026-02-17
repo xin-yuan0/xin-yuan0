@@ -9,7 +9,7 @@
 <hr/>
 
 <a href="https://github.com/rulix01">
-  <img width="60%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=rulix01&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="rulix01 GitHub Stats" />
+  <img width="100%" height="150px" src="https://github-readme-stats-me-amirroox.vercel.app/api?username=rulix01&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="rulix01 GitHub Stats" />
 </a>
 
 <a href="https://github.com/rulix01">
