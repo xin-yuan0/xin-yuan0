@@ -13,10 +13,10 @@
 </a>
 
 <a href="https://github.com/rulix01">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=rulix01&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e&langs_count=20" alt="rulix01 Top Languages" />
+  <picture>
+    <img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=rulix01&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+  </picture>
 </a>
-
-<hr/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rulix01&theme=redical)
 
